@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "minicontacts-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/minicontacts/MinicontactsWebPart.js",
+          "manifest": "./src/webparts/minicontacts/MinicontactsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MinicontactsWebPartStrings": "lib/webparts/minicontacts/loc/{locale}.js"
+  }
+}

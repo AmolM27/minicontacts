@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "minicontacts",
+    "libraryId": "103b26a1-aafa-414b-a978-0e31bacf37fc",
+    "environment": "spo"
+  }
+}
