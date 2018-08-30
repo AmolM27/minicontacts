@@ -1,3 +1,6 @@
+import {SPHttpClient} from '@microsoft/sp-http';
+
 export interface IMinicontactsProps {
-  description: string;
+  title: string;
+  client: SPHttpClient;
 }

@@ -20,7 +20,7 @@
     "description": { "default": "minicontacts" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "minicontacts"
+      "title": "minicontacts WP"
     }
   }]
 }
