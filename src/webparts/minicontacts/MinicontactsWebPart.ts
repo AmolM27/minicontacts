@@ -23,6 +23,7 @@ export default class MinicontactsWebPart extends BaseClientSideWebPart<IMinicont
       {
         title: this.properties.title,
         client: this.context.spHttpClient
+        
       }
     );
 
